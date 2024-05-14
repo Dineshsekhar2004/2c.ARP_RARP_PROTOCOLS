@@ -75,5 +75,5 @@ while True:
 ![WhatsApp Image 2024-05-07 at 05 33 21_63133410](https://github.com/ajinajoshpin/2c.ARP_RARP_PROTOCOLS/assets/148514578/9c03b008-c1f2-4721-a0a0-510725f6bf4a)
 
 ## RESULT
-Thus, the python program for simulating ARP protocols using TCP was successfully 
+Thus, the python program for simulating ARP protocols using TCP was successfully
 executed.
